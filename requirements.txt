@@ -4,3 +4,4 @@ pandas
 numpy
 yahoo_fin
 gunicorn
+requests_html
