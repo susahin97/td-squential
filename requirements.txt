@@ -5,3 +5,5 @@ numpy
 yahoo_fin
 gunicorn
 requests_html
+lxml[html_clean]
+
